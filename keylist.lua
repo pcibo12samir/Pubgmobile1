@@ -17,6 +17,13 @@ return {
         max_devices = 5,
         SLOT = "2"
     },
+    ["ibo"] = {
+        type = "ibo",
+        expiry = "2028-08-01",
+        valid = true,
+        max_devices = 50,
+        SLOT = "4"
+    },
     ["SINGLE_USER"] = {
         type = "VIP",
         expiry = "2025-01-01",
